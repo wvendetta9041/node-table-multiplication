@@ -1,5 +1,6 @@
 # Notes:
 
+```
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
@@ -8,3 +9,4 @@ Options:
                                                [number] [required] [default: 10]
   -l, --listar   Muestra la tabla en consola
                                            [boolean] [required] [default: false]
+```
